@@ -70,10 +70,10 @@ FNA Industrial Parts and Repair Inc., Mississauga, ON | Apr 2016 - Present
 #### VOLUNTEER EXPERIENCE
 ##### Parking/Security Volunteer
 Jaffari Community Centre, Thornhill, ON | May 2023 – Present
-•	Enforced parking regulations by monitoring violations, issuing warnings or citations, and effectively communicating with vehicle owners to maintain order.
-•	Worked in conjunction with the security team to respond swiftly and efficiently to security incidents, helping to mitigate and resolve emergencies.
+- Enforced parking regulations by monitoring violations, issuing warnings or citations, and effectively communicating with vehicle owners to maintain order.
+- Worked in conjunction with the security team to respond swiftly and efficiently to security incidents, helping to mitigate and resolve emergencies.
 
 ##### Masumeen Soup Kitchen & Food Bank Packing and Delivery
 Masumeen Islamic Centre, Brampton, ON | Mar 2020 – Present
-•	Cooperated with the Soup Kitchen team to ensure food packages were prepared and given to recipients in a timely manner.
-•	Cooperated with the delivery day team and drivers to ensure correct routes for transportation of goods.
+- Cooperated with the Soup Kitchen team to ensure food packages were prepared and given to recipients in a timely manner.
+- Cooperated with the delivery day team and drivers to ensure correct routes for transportation of goods.
