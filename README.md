@@ -1,2 +1,1 @@
-# Humza Ali
-## Highlights & Qualifications
+
