@@ -32,3 +32,12 @@ University of Guelph, Guelph, ON & Seneca College, Toronto, ON
 
 ##### Certificate in Business | 2015 – 2019
 University of Guelph, Guelph, ON
+
+#### TECHNICAL PROJECTS
+- ##### Kanban Board and Gantt Chart for Project Management
+  -Developed an Order Card Table with Gantt Chart View using MSSQL Server, PHP, JavaScript, jQuery, Chart.js, and jQuery.Gantt.
+- ##### Cybersecurity Training Manual
+  - Co-created a manual to educate employees on cybersecurity best practices, improving security awareness.
+- ##### Conestoga Clinic Website
+  - Created Website that manages patient data in a database with CRUD functionality, validations, filtering, sorting and security functionality with user and role maintenance using C#, MSSQL Server and MVC Framework.
+
