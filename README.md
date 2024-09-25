@@ -1,3 +1,3 @@
 # Humza Ali
-# Highlights & Qualifications
+## Highlights & Qualifications
 ## Cool Guy Tough Guy
