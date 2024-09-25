@@ -1,5 +1,3 @@
-## 💼 **Professional Portfolio**
-
 ## 🚀 **Skills and Qualifications**
 - **Pursuing CompTIA Certifications**
 
