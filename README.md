@@ -1,4 +1,4 @@
-# 💼 **Professional Portfolio**
+## 💼 **Professional Portfolio**
 
 ## 🚀 **Skills and Qualifications**
 - **Pursuing CompTIA Certifications**
@@ -93,18 +93,6 @@
 ### 🍲 **Masumeen Soup Kitchen & Food Bank Packing and Delivery**
 📍 **Masumeen Islamic Centre**, Brampton, ON | Mar 2020 – Present
 - Assisted in preparing and delivering food packages to recipients in a timely manner.
-
----
-
-### 🛠️ **Technologies and Tools Used**
-| Category                      | Tools                                         |
-|-------------------------------|-----------------------------------------------|
-| **Programming Languages**      | C#, PHP, JavaScript, HTML5, CSS3              |
-| **Frameworks & Libraries**     | .NET, ASP.NET MVC, Bootstrap, jQuery          |
-| **Databases**                  | MSSQL Server, MySQL, Web SQL                  |
-| **Version Control**            | Git, GitHub                                  |
-| **Tools & Platforms**          | Visual Studio, SQL Server Management Studio   |
-| **Other**                      | JSON, LINQ, Chart.js, MonoGame, QuickBooks    |
 
 ---
 
