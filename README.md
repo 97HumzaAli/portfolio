@@ -1,4 +1,4 @@
-#{{ site.title }}
+# {{ site.title }}
 
 ---
 
