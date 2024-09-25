@@ -1,4 +1,4 @@
-### SKILLS AND QUALIFICATIONS
+#### SKILLS AND QUALIFICATIONS
 -	Pursuing CompTIA Certifications.
 -	Database Management:
 -	Practical knowledge of SQL and modern relational database architectures (MSSQL Server, PHP, C#, JavaScript).
