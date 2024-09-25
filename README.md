@@ -1,4 +1,3 @@
-# Humza Ali
 ## IT Professional Currently Studying at Conestoga College in IT Innovation & Design
 
 ---
