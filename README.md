@@ -1,4 +1,4 @@
-title: Humza Ali
+#{{ site.title }}
 
 ---
 
