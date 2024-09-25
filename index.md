@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Humza Ali | IT Professional"
+description: "IT Professional Currently Studying at Conestoga College in IT Innovation & Design"
 ---
 
 ## 🚀 **Skills and Qualifications**
