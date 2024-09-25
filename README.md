@@ -3,6 +3,7 @@
 
 ##### Database Management:
   - Practical knowledge of SQL and modern relational database architectures (MSSQL Server, PHP, C#, JavaScript).
+
 ##### Programming and Development:
   - Proficient in C#, .NET, LINQ, JavaScript, jQuery, ASP.NET MVC, MySQL, MS SQL Server, SQL Server Management Studio, MonoGame, Web SQL, HTML5, CSS3, Bootstrap, JSON, PHP.
   - Ability to quickly learn new languages and frameworks within 3 weeks.
@@ -36,7 +37,7 @@
 
 ##### Biological and Pharmaceutical Chemistry, Bachelor of Science (Honours)
 2015 – 2019
-  - University of Guelph, Guelph, ON | Seneca College, Toronto, ON
+  - University of Guelph, Guelph, ON & Seneca College, Toronto, ON
 
 ##### Certificate in Business
 2015 – 2019
