@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Humza Ali | IT Professional"
 ---
 
 ## 🚀 **Skills and Qualifications**
