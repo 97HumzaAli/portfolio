@@ -1,6 +1,8 @@
-# Humza Ali
+---
+layout: default
+title: "Humza Ali | IT Professional"
+---
 ## IT Professional Currently Studying at Conestoga College in IT Innovation & Design
-
 ---
 
 ## 🚀 **Skills and Qualifications**
