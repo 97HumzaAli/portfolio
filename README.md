@@ -1,3 +1,7 @@
+title: Humza Ali
+
+---
+
 ## 🚀 **Skills and Qualifications**
 - **Pursuing CompTIA Certifications**
 
