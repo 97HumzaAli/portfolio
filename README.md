@@ -35,7 +35,7 @@ University of Guelph, Guelph, ON
 
 #### TECHNICAL PROJECTS
 - ##### Kanban Board and Gantt Chart for Project Management
-  -Developed an Order Card Table with Gantt Chart View using MSSQL Server, PHP, JavaScript, jQuery, Chart.js, and jQuery.Gantt.
+  - Developed an Order Card Table with Gantt Chart View using MSSQL Server, PHP, JavaScript, jQuery, Chart.js, and jQuery.Gantt.
 - ##### Cybersecurity Training Manual
   - Co-created a manual to educate employees on cybersecurity best practices, improving security awareness.
 - ##### Conestoga Clinic Website
