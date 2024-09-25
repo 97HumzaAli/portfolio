@@ -23,6 +23,8 @@
 - ##### Financial Management:
   - Managed finances and tax records using Excel; deployed QuickBooks and Remote Desktop Client.
 
+---
+
 #### EDUCATION & CERTIFICATIONS
 ##### IT Innovation & Design (Co-op), Advanced Diploma | 3.96 GPA | 2022 – Present
 Conestoga College, Waterloo, ON
@@ -33,6 +35,8 @@ University of Guelph, Guelph, ON & Seneca College, Toronto, ON
 ##### Certificate in Business | 2015 – 2019
 University of Guelph, Guelph, ON
 
+---
+
 #### TECHNICAL PROJECTS
 - ##### Kanban Board and Gantt Chart for Project Management
   - Developed an Order Card Table with Gantt Chart View using MSSQL Server, PHP, JavaScript, jQuery, Chart.js, and jQuery.Gantt.
@@ -40,6 +44,8 @@ University of Guelph, Guelph, ON
   - Co-created a manual to educate employees on cybersecurity best practices, improving security awareness.
 - ##### Conestoga Clinic Website
   - Created Website that manages patient data in a database with CRUD functionality, validations, filtering, sorting and security functionality with user and role maintenance using C#, MSSQL Server and MVC Framework.
+
+---
 
 #### WORK EXPERIENCE
 ##### IT Student / C# Programmer (Co-op) | May 2023 – Dec 2023, Apr 2024 – Aug 2024                                                                                                                                           
@@ -66,6 +72,8 @@ and collaborating with team members to resolve issues effectively
 -	Managed finances and tax records with precision using Microsoft Excel.
 -	Deployed QuickBooks Software and Remote Desktop Client for efficient remote data entry.
 -	Simplified printer setup for easy, cross-device printing on the local network.
+
+---
 
 #### VOLUNTEER EXPERIENCE
 ##### Parking/Security Volunteer
