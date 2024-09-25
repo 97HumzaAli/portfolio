@@ -31,14 +31,11 @@
   - Managed finances and tax records using Excel; deployed QuickBooks and Remote Desktop Client.
 
 #### EDUCATION & CERTIFICATIONS
-##### IT Innovation & Design (Co-op), Advanced Diploma | 3.96 GPA
-2022 – Present
-  - Conestoga College, Waterloo, ON
+##### IT Innovation & Design (Co-op), Advanced Diploma | 3.96 GPA | 2022 – Present
+Conestoga College, Waterloo, ON
 
-##### Biological and Pharmaceutical Chemistry, Bachelor of Science (Honours)
-2015 – 2019
-  - University of Guelph, Guelph, ON & Seneca College, Toronto, ON
+##### Biological and Pharmaceutical Chemistry, Bachelor of Science (Honours) | 2015 – 2019
+University of Guelph, Guelph, ON & Seneca College, Toronto, ON
 
-##### Certificate in Business
-2015 – 2019
-  - University of Guelph, Guelph, ON
+##### Certificate in Business | 2015 – 2019
+University of Guelph, Guelph, ON
