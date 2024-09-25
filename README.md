@@ -1,43 +1,43 @@
 #### SKILLS AND QUALIFICATIONS
 -	Pursuing CompTIA Certifications.
 
-- Database Management:
+##### Database Management:
   - Practical knowledge of SQL and modern relational database architectures (MSSQL Server, PHP, C#, JavaScript).
-- Programming and Development:
+##### Programming and Development:
   - Proficient in C#, .NET, LINQ, JavaScript, jQuery, ASP.NET MVC, MySQL, MS SQL Server, SQL Server Management Studio, MonoGame, Web SQL, HTML5, CSS3, Bootstrap, JSON, PHP.
   - Ability to quickly learn new languages and frameworks within 3 weeks.
   - Experience in developing B2B web tools and network switch migration.
   
-Cybersecurity:
+##### Cybersecurity:
   - Successfully implemented Multi-Factor Authentication (MFA) and conducted training to ensure compliance.
   - Co-created a comprehensive cybersecurity training manual to enhance organizational security awareness.
   
-Hardware and Network Management:
+##### Hardware and Network Management:
   - Decommissioned outdated PCs and facilitated internal equipment auctions.
   - Established a robust mesh wireless network for office-wide internet access.
   
-Testing and Evaluation:
+##### Testing and Evaluation:
   - Analyzed, developed, and documented test cases for thorough software testing.
   - Executed test plans to evaluate software functionality and performance.
 
-Teamwork and Communication:
+##### Teamwork and Communication:
   - Strong interpersonal skills; active participation in stand-up and scrum meetings.
   
-Problem-Solving and Time Management:
+##### Problem-Solving and Time Management:
   - Accurate problem-solving and time management from work and volunteer experiences.
   
-Financial Management:
+##### Financial Management:
   - Managed finances and tax records using Excel; deployed QuickBooks and Remote Desktop Client.
 
 #### EDUCATION & CERTIFICATIONS
 ##### IT Innovation & Design (Co-op), Advanced Diploma | 3.96 GPA
 2022 – Present
-Conestoga College, Waterloo, ON
+  - Conestoga College, Waterloo, ON
 
 ##### Biological and Pharmaceutical Chemistry, Bachelor of Science (Honours)
 2015 – 2019
-University of Guelph, Guelph, ON | Seneca College, Toronto, ON
+  - University of Guelph, Guelph, ON | Seneca College, Toronto, ON
 
 ##### Certificate in Business
 2015 – 2019
-University of Guelph, Guelph, ON
+  - University of Guelph, Guelph, ON
