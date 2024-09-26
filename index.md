@@ -4,7 +4,7 @@ title: "Humza Ali | IT Professional"
 description: "IT Professional Currently Studying at Conestoga College in IT Innovation & Design"
 ---
 
-## 🚀 **Skills and Qualifications**
+## 🚀 **Skills & Qualifications**
 - **Pursuing CompTIA Certifications**
 
 ### 📊 **Database Management**
