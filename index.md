@@ -6,7 +6,7 @@ description: "IT Professional Currently Studying at Conestoga College in IT Inno
 ![Logo](assets/Loo.jpg){:style="width:150px; height:auto;"}
 
 
-## 🚀 **Skills & Qualifications**
+## 🚀 **<span style="color: blue;">Skills & Qualifications</span>**
 - **Pursuing CompTIA Certifications**
 
 ### 📊 **Database Management**
