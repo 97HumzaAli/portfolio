@@ -42,13 +42,13 @@ description: "IT Professional Currently Studying at Conestoga College in IT Inno
 ## 🎓 **<span style="color: #1E3A8A;">Education & Certifications</span>**
 
 ### 🎓 **<span style="color: #1D4ED8;">IT Innovation & Design (Co-op), Advanced Diploma</span>**  
-📍 **Conestoga College**, Waterloo, ON | 3.96 GPA | 2022 – Present
+📍 <span style="color: #333;">**Conestoga College**, Waterloo, ON | 3.96 GPA | 2022 – Present</span>
 
 ### 🎓 **<span style="color: #1D4ED8;">Bachelor of Science (Honours), Biological and Pharmaceutical Chemistry</span>**  
-📍 **University of Guelph**, Guelph, ON & **Seneca College**, Toronto, ON | 2015 – 2019
+📍 <span style="color: #333;">**University of Guelph**, Guelph, ON & **Seneca College**, Toronto, ON | 2015 – 2019</span>
 
 ### 🎓 **<span style="color: #1D4ED8;">Certificate in Business</span>**  
-📍 **University of Guelph**, Guelph, ON | 2015 – 2019
+📍 <span style="color: #333;">**University of Guelph**, Guelph, ON | 2015 – 2019</span>
 
 ---
 
@@ -68,7 +68,7 @@ description: "IT Professional Currently Studying at Conestoga College in IT Inno
 ## 💼 **<span style="color: #1E3A8A;">Work Experience</span>**
 
 ### 🖥️ **<span style="color: #1D4ED8;">IT Student / C# Programmer (Co-op)</span>**
-📍 **Mysys Limited**, Oakville, ON | May 2023 – Dec 2023, Apr 2024 – Aug 2024
+📍 <span style="color: #333;">**Mysys Limited**, Oakville, ON | May 2023 – Dec 2023, Apr 2024 – Aug 2024</span>
 - <span style="color: #333;">Migrated users to **Multi-Factor Authentication (MFA)** and conducted live demos to ensure compliance.</span>
 - <span style="color: #333;">Co-created a **Cybersecurity Training Manual** to enhance security awareness.</span>
 - <span style="color: #333;">Decommissioned outdated PCs and facilitated internal auctions using Microsoft Forms.</span>
@@ -77,7 +77,7 @@ description: "IT Professional Currently Studying at Conestoga College in IT Inno
 - <span style="color: #333;">Provided remote technical support to assist clients in optimizing their operations.</span>
 
 ### 🧪 **<span style="color: #1D4ED8;">Software Verification Specialist (Co-op)</span>**
-📍 **Siemens Healthineers**, Waterloo, ON | Jan 2024 – Apr 2024
+📍 <span style="color: #333;">**Siemens Healthineers**, Waterloo, ON | Jan 2024 – Apr 2024</span>
 - <span style="color: #333;">Developed and documented test cases to ensure thorough testing.</span>
 - <span style="color: #333;">Executed test plans, adhering to procedures to evaluate software functionality.</span>
 - <span style="color: #333;">Participated in **scrum meetings**, collaborating with the team to resolve issues.</span>
@@ -87,11 +87,11 @@ description: "IT Professional Currently Studying at Conestoga College in IT Inno
 ## 🙌 **<span style="color: #1E3A8A;">Volunteer Experience</span>**
 
 ### 🚗 **<span style="color: #1D4ED8;">Parking/Security Volunteer</span>**
-📍 **Jaffari Community Centre**, Thornhill, ON | May 2023 – Present
+📍 <span style="color: #333;">**Jaffari Community Centre**, Thornhill, ON | May 2023 – Present</span>
 - <span style="color: #333;">Enforced parking regulations and worked with the security team to handle emergencies efficiently.</span>
 
 ### 🍲 **<span style="color: #1D4ED8;">Masumeen Soup Kitchen & Food Bank Packing and Delivery</span>**
-📍 **Masumeen Islamic Centre**, Brampton, ON | Mar 2020 – Present
+📍 <span style="color: #333;">**Masumeen Islamic Centre**, Brampton, ON | Mar 2020 – Present</span>
 - <span style="color: #333;">Assisted in preparing and delivering food packages to recipients in a timely manner.</span>
 
 ---
