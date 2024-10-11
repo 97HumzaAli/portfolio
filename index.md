@@ -3,10 +3,9 @@ layout: default
 title: "Humza Ali | IT Professional"
 description: "IT Professional Currently Studying at Conestoga College in IT Innovation & Design"
 ---
-![Logo](assets/Loo.jpg){:style="width:150px; height:auto;"}
+<img src="assets/Loo.jpg" alt="Logo of Humza Ali" style="width:150px; height:auto;">
 
-
-## 🚀 **<span style="color: blue;">Skills & Qualifications</span>**
+## 🚀 **Skills & Qualifications**
 - **Pursuing CompTIA Certifications**
 
 ### 📊 **Database Management**
@@ -41,6 +40,7 @@ description: "IT Professional Currently Studying at Conestoga College in IT Inno
 ---
 
 ## 🎓 **Education & Certifications**
+
 ### 🎓 **IT Innovation & Design (Co-op), Advanced Diploma**  
 📍 **Conestoga College**, Waterloo, ON | 3.96 GPA | 2022 – Present
 
@@ -82,12 +82,6 @@ description: "IT Professional Currently Studying at Conestoga College in IT Inno
 - Executed test plans, adhering to procedures to evaluate software functionality.
 - Participated in **scrum meetings**, collaborating with the team to resolve issues.
 
-### 📦 **Inside Sales, Accountant, Delivery, and Tech Support**
-📍 **FNA Industrial Parts and Repair Inc.**, Mississauga, ON | Apr 2016 – Present
-- Established a robust **mesh wireless network** for office-wide internet access.
-- Managed finances using **Excel** and deployed **QuickBooks** for remote data entry.
-- Simplified printer setup for cross-device compatibility.
-
 ---
 
 ## 🙌 **Volunteer Experience**
@@ -102,8 +96,7 @@ description: "IT Professional Currently Studying at Conestoga College in IT Inno
 
 ---
 
-### 👨‍💼 **Contact Information**
+## 👨‍💼 **Contact Information**
 📧 **Email:** [hali4239@conestogac.on.ca](mailto:hali4239@conestogac.on.ca)  
 🔗 **LinkedIn:** [linkedin.com/in/humza-ali-4333a116b](https://www.linkedin.com/in/humza-ali-4333a116b/)  
 💻 **GitHub:** [github.com/97humzaali](https://github.com/97humzaali)
-
