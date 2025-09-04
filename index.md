@@ -3,7 +3,6 @@ layout: default
 title: "Humza Ali | IT Professional"
 description: "IT Professional Currently Studying at Conestoga College in IT Innovation & Design"
 ---
-<img src="assets/Loo.jpg" alt="Logo of Humza Ali" style="width:150px; height:auto;">
 
 ## 🚀 **<span style="color: #1E3A8A; font-size: 1.2em;">Skills & Qualifications</span>**
 - <span style="color: #333; font-size: 1.1em;">Pursuing CompTIA Certifications</span>
